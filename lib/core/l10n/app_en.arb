@@ -1,0 +1,15 @@
+{
+  "lang": "English",
+  "samim": "Samim",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "countryList": "Country list",
+  "warningLogin": "You are not allowed to enter",
+  "emailNotValid": "The email entered is not valid",
+  "passLatin": "The password must only contain Latin letters",
+  "passUpperLower": "must contain upper and lower case Latin letters",
+  "pass8": "It should not be less than 8 characters",
+  "language": "Language",
+  "chooselanguage": "Choose your language:"
+}
